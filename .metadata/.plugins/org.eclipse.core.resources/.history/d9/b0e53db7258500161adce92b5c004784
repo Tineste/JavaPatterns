@@ -1,0 +1,15 @@
+package orz.xuchao.javapatterns.decorator;
+
+public class ConcreteDecoratorA extends Decorator {
+
+	private String  addedState;
+
+	@Override
+	public void Operation() {
+		// TODO Auto-generated method stub
+		super.Operation();
+		addedState="New State";
+		System.out.println("具体装饰对象A的操作");
+	}
+	
+}

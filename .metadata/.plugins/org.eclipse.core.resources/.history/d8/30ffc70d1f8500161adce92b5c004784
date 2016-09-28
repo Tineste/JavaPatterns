@@ -1,0 +1,6 @@
+package orz.xuchao.javapatterns.decorator;
+
+public abstract Component {
+	public void Operation();
+	public Decorator  decorator;
+}

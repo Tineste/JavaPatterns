@@ -1,0 +1,11 @@
+package orz.xuchao.javapatterns.proxy;
+
+public class Proxy implements Subject {
+
+	@Override
+	public void Requset() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

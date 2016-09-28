@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.decorator.ConcreteComponent"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.decorator.ConcreteDecoratorA"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.decorator.TestDecorator"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.proxy.Subject"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.proxy.Clinet"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.proxy.RealSubject"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.proxy.Proxy"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.proxy.TestProxy"/>
+</qualifiedTypeNameHistroy>

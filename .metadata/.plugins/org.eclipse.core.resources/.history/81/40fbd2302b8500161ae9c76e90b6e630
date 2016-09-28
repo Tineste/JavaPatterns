@@ -1,0 +1,5 @@
+package orz.xuchao.javapatterns.proxy;
+
+public class Clinet {
+
+}
