@@ -1,0 +1,9 @@
+package orz.xuchao.javapatterns.templatemethod;
+
+public abstract class AbstractClass {
+	
+	public void templateMethod();
+	
+
+	
+}

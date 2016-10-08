@@ -1,0 +1,7 @@
+package orz.xuchao.javapatterns.Facade;
+
+public class SubSystemB {
+	public void methodB(){
+		
+	}
+}

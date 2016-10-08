@@ -1,0 +1,13 @@
+package orz.xuchao.javapatterns.templatemethod;
+
+public abstract class AbstractClass {
+	
+	public void templateMethod(){
+		
+	}
+	
+
+	public abstract void primitiveOperation1();
+	public abstract void primitiveOperation1();
+	
+}

@@ -9,7 +9,7 @@ package orz.xuchao.javapatterns.simplefactory;
 
 public class TestSimpleFactory {
 
-	public static void Test(){
+	public static void test(){
 		Operation operation=OperationFactory.createOperate("+");
 		operation.numberA=3;
 		operation.numberB=2;
