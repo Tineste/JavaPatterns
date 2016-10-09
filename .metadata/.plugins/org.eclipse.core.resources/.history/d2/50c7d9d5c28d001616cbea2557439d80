@@ -1,0 +1,5 @@
+package orz.xuchao.javapatterns.builder;
+
+public class ConcreteBuilder extends Builder {
+
+}

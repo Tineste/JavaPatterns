@@ -31,4 +31,9 @@
 <fullyQualifiedTypeName name="orz.xuchao.javapatterns.Facade.Facade"/>
 <fullyQualifiedTypeName name="orz.xuchao.javapatterns.factorymethod.TestFactoryMethod"/>
 <fullyQualifiedTypeName name="orz.xuchao.javapatterns.Facade.TestFacade"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.builder.Builder"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.builder.TestBuilder"/>
+<fullyQualifiedTypeName name="java.util.Observable"/>
+<fullyQualifiedTypeName name="java.util.Observer"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.observer.TestObserver"/>
 </qualifiedTypeNameHistroy>

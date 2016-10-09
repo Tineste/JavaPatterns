@@ -1,0 +1,11 @@
+package orz.xuchao.javapatterns.builder;
+
+public class ConcreteBuilder implements Builder {
+
+	@Override
+	public void builPart() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
