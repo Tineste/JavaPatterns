@@ -1,0 +1,5 @@
+package orz.xuchao.javapatterns.state;
+
+public class ConcreteStateA {
+
+}

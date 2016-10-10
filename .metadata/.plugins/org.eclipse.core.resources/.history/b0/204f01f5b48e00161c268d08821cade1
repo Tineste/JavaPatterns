@@ -1,0 +1,13 @@
+package orz.xuchao.javapatterns.abstractfactory;
+
+public class TestAbstractFactory {
+	public static void test(){
+		
+		AbstractFactory concreteFactory1=new ConcreteFactory1();
+		concreteFactory1.CreateProductA().doSomething();
+		concreteFactory1.CreateProductB().saySomething();
+		
+		
+	}
+
+}

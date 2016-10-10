@@ -1,0 +1,20 @@
+package orz.xuchao.javapatterns.abstractfactory;
+
+import orz.xuchao.javapatterns.proxy.Subject;
+
+public class ConcreteFactory1 implements AbstractFactory {
+
+	@Override
+	public void CreateProductA() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void CreateProductB() {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+}

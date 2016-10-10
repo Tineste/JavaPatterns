@@ -2,6 +2,7 @@ package orz.xuchao.javapatterns;
 
 import java.io.IOException;
 
+import orz.xuchao.javapatterns.abstractfactory.TestAbstractFactory;
 import orz.xuchao.javapatterns.builder.TestBuilder;
 import orz.xuchao.javapatterns.decorator.TestDecorator;
 import orz.xuchao.javapatterns.facade.TestFacade;
@@ -10,6 +11,7 @@ import orz.xuchao.javapatterns.observer.TestObserver;
 import orz.xuchao.javapatterns.prototype.TestPrototype;
 import orz.xuchao.javapatterns.proxy.TestProxy;
 import orz.xuchao.javapatterns.simplefactory.TestSimpleFactory;
+import orz.xuchao.javapatterns.state.TestState;
 import orz.xuchao.javapatterns.strategy.TestStrategy;
 import orz.xuchao.javapatterns.templatemethod.TestTemplateMethod;
 
@@ -39,8 +41,12 @@ public class Test {
 //		TestFacade.test();
 ////		建造者模式
 //		TestBuilder.test();
-//		观察者模式
-		TestObserver.test();
+////		观察者模式
+//		TestObserver.test();
+////		抽象工厂
+//		TestAbstractFactory.test();
+////		状态模式
+//		TestState.test();
 		
 	}
 }

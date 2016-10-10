@@ -1,0 +1,13 @@
+package orz.xuchao.javapatterns.abstractfactory;
+
+import orz.xuchao.javapatterns.proxy.Subject;
+
+public class ConcreteFactory implements Subject {
+
+	@Override
+	public void requset() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

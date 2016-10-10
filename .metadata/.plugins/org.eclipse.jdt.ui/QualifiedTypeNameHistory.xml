@@ -36,4 +36,14 @@
 <fullyQualifiedTypeName name="java.util.Observable"/>
 <fullyQualifiedTypeName name="java.util.Observer"/>
 <fullyQualifiedTypeName name="orz.xuchao.javapatterns.observer.TestObserver"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.abstractfactory.AbstractFactory"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.abstractfactory.AbstractProductB"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.abstractfactory.ProductA1"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.abstractfactory.ProductB1"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.abstractfactory.ProductA2"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.abstractfactory.ProductB2"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.abstractfactory.AbstractProductA"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.abstractfactory.ConcreteFactory1"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.abstractfactory.TestAbstractFactory"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.state.TestState"/>
 </qualifiedTypeNameHistroy>

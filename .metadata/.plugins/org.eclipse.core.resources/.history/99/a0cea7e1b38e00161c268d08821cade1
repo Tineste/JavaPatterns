@@ -1,0 +1,12 @@
+package orz.xuchao.javapatterns.abstractfactory;
+
+public class TestAbstractFactory {
+	public static void test(){
+		
+		
+		
+		
+		
+	}
+
+}

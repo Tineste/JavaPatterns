@@ -1,0 +1,10 @@
+package orz.xuchao.javapatterns.abstractfactory;
+
+import orz.xuchao.javapatterns.proxy.Subject;
+
+public class ConcreteFactory1 implements AbstractFactory {
+
+
+
+
+}

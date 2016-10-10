@@ -1,0 +1,6 @@
+package orz.xuchao.javapatterns.state;
+
+public class Context {
+
+	private State state; 
+}
