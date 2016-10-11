@@ -3,10 +3,13 @@ package orz.xuchao.javapatterns;
 import java.io.IOException;
 
 import orz.xuchao.javapatterns.abstractfactory.TestAbstractFactory;
+import orz.xuchao.javapatterns.adapter.TestAdapter;
 import orz.xuchao.javapatterns.builder.TestBuilder;
 import orz.xuchao.javapatterns.decorator.TestDecorator;
 import orz.xuchao.javapatterns.facade.TestFacade;
 import orz.xuchao.javapatterns.factorymethod.TestFactoryMethod;
+import orz.xuchao.javapatterns.memento.TestMomento;
+import orz.xuchao.javapatterns.memento.whitebox.TestWhiteMomento;
 import orz.xuchao.javapatterns.observer.TestObserver;
 import orz.xuchao.javapatterns.prototype.TestPrototype;
 import orz.xuchao.javapatterns.proxy.TestProxy;
@@ -47,6 +50,11 @@ public class Test {
 //		TestAbstractFactory.test();
 ////		状态模式
 //		TestState.test();
+////		适配器模式
+//		TestAdapter.test();
+//		备忘录模式
+		TestMomento.test();
+		
 		
 	}
 }

@@ -1,0 +1,19 @@
+package orz.xuchao.javapatterns.memento;
+
+import orz.xuchao.javapatterns.memento.blackbox.TestBlackMomento;
+import orz.xuchao.javapatterns.memento.whitebox.TestWhiteMomento;
+
+public class TestMomento {
+	public static void test() {
+		
+//		白盒备忘录模式
+		System.out.println("--------白箱备忘录模式--------");
+		TestWhiteMomento.test();
+//		黑箱备忘录模式
+		System.out.println("--------黑箱备忘录模式--------");
+		TestBlackMomento.test();
+		
+		
+		
+	}
+}

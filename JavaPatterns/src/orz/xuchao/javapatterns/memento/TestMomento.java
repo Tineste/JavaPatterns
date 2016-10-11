@@ -1,0 +1,44 @@
+package orz.xuchao.javapatterns.memento;
+
+import orz.xuchao.javapatterns.memento.blackbox.TestBlackMomento;
+import orz.xuchao.javapatterns.memento.whitebox.TestWhiteMomento;
+
+public class TestMomento {
+	public static void test() {
+
+		// 白盒备忘录模式
+		System.out.println("--------白箱备忘录模式--------");
+		TestWhiteMomento.test();
+		// 黑箱备忘录模式
+		System.out.println("--------黑箱备忘录模式--------");
+		TestBlackMomento.test();
+		// 多重检查点
+		System.out.println("--------多重检查点--------");
+		Originator o = new Originator();
+		Caretaker c = new Caretaker(o);
+		// 改变状态
+		o.setState("state 0");
+		// 建立一个检查点
+		c.createMemento();
+		// 改变状态
+		o.setState("state 1");
+		// 建立一个检查点
+		c.createMemento();
+		// 改变状态
+		o.setState("state 2");
+		// 建立一个检查点
+		c.createMemento();
+		// 改变状态
+		o.setState("state 3");
+		// 建立一个检查点
+		c.createMemento();
+		// 打印出所有检查点
+		o.printStates();
+		System.out.println("-----------------恢复检查点-----------------");
+		// 恢复到第二个检查点
+		c.restoreMemento(2);
+		// 打印出所有检查点
+		o.printStates();
+
+	}
+}

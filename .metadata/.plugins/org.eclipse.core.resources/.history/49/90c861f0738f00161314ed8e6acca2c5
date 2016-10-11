@@ -1,0 +1,7 @@
+package orz.xuchao.javapatterns.memento;
+
+public class TestMomento {
+	public static void test(){
+		
+	}
+}

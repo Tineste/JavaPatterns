@@ -1,0 +1,14 @@
+package orz.xuchao.javapatterns.adapter;
+
+public class TestAdapter {
+
+	public static void Test(){
+		
+		
+		Target target=new Adapter1();
+		target.sampleOperation1();
+		target.sampleOperation2();
+		
+	}
+	
+}
