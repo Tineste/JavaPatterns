@@ -20,3 +20,7 @@
 1476165885983	Rename type 'TestWhiteMomento'
 1476166135625	Copy compilation unit
 1476166148211	Rename type 'TestBlackMomento'
+1476238664130	Rename package 'orz.xuchao.javapatterns.composite'
+1476238770517	Rename type 'TestComposite'
+1476238838601	Copy compilation unit
+1476238856296	Rename type 'TestSafetyComposite'

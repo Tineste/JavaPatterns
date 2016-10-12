@@ -1,0 +1,8 @@
+package orz.xuchao.javapatterns.composite;
+
+public class Component {
+    /**
+     * 输出组建自身的名称
+     */
+    public void printStruct(String preStr);
+}

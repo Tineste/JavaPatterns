@@ -5,9 +5,13 @@ import java.io.IOException;
 import orz.xuchao.javapatterns.abstractfactory.TestAbstractFactory;
 import orz.xuchao.javapatterns.adapter.TestAdapter;
 import orz.xuchao.javapatterns.builder.TestBuilder;
+import orz.xuchao.javapatterns.composite.TestComposite;
+import orz.xuchao.javapatterns.composite.safety.TestSafetyComposite;
+import orz.xuchao.javapatterns.composite.transparent.TestTransparentComposite;
 import orz.xuchao.javapatterns.decorator.TestDecorator;
 import orz.xuchao.javapatterns.facade.TestFacade;
 import orz.xuchao.javapatterns.factorymethod.TestFactoryMethod;
+import orz.xuchao.javapatterns.iterator.TestIterator;
 import orz.xuchao.javapatterns.memento.TestMomento;
 import orz.xuchao.javapatterns.memento.whitebox.TestWhiteMomento;
 import orz.xuchao.javapatterns.observer.TestObserver;
@@ -52,9 +56,12 @@ public class Test {
 //		TestState.test();
 ////		适配器模式
 //		TestAdapter.test();
-//		备忘录模式
-		TestMomento.test();
-		
+////		备忘录模式
+//		TestMomento.test();
+////		组合模式
+//		TestComposite.test();
+////		迭代器模式
+//		TestIterator.test();
 		
 	}
 }

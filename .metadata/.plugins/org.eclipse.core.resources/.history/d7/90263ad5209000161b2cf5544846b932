@@ -1,0 +1,5 @@
+package orz.xuchao.javapatterns.composite;
+
+public class Composite implements Component {
+
+}

@@ -1,0 +1,8 @@
+package orz.xuchao.javapatterns.composite;
+
+public class TestComposite {
+
+	public static void test(){
+		
+	}
+}

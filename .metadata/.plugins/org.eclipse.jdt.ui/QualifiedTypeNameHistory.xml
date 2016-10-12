@@ -46,4 +46,12 @@
 <fullyQualifiedTypeName name="orz.xuchao.javapatterns.abstractfactory.ConcreteFactory1"/>
 <fullyQualifiedTypeName name="orz.xuchao.javapatterns.abstractfactory.TestAbstractFactory"/>
 <fullyQualifiedTypeName name="orz.xuchao.javapatterns.state.TestState"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.adapter.Adapter"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.adapter.Adaptee"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.adapter.TestAdapter"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.memento.whitebox.TestWhiteMomento"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.memento.blackbox.TestBlackMomento"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.memento.TestMomento"/>
 </qualifiedTypeNameHistroy>
