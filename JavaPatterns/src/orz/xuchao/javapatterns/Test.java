@@ -4,6 +4,7 @@ import java.io.IOException;
 
 import orz.xuchao.javapatterns.abstractfactory.TestAbstractFactory;
 import orz.xuchao.javapatterns.adapter.TestAdapter;
+import orz.xuchao.javapatterns.bridge.TestBridge;
 import orz.xuchao.javapatterns.builder.TestBuilder;
 import orz.xuchao.javapatterns.composite.TestComposite;
 import orz.xuchao.javapatterns.composite.safety.TestSafetyComposite;
@@ -18,6 +19,7 @@ import orz.xuchao.javapatterns.observer.TestObserver;
 import orz.xuchao.javapatterns.prototype.TestPrototype;
 import orz.xuchao.javapatterns.proxy.TestProxy;
 import orz.xuchao.javapatterns.simplefactory.TestSimpleFactory;
+import orz.xuchao.javapatterns.singleton.TestSingleton;
 import orz.xuchao.javapatterns.state.TestState;
 import orz.xuchao.javapatterns.strategy.TestStrategy;
 import orz.xuchao.javapatterns.templatemethod.TestTemplateMethod;
@@ -62,6 +64,10 @@ public class Test {
 //		TestComposite.test();
 ////		迭代器模式
 //		TestIterator.test();
+//		单例模式
+//		TestSingleton.test();
+//		桥梁模式
+		TestBridge.test();
 		
 	}
 }

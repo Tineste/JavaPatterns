@@ -1,0 +1,8 @@
+package orz.xuchao.javapatterns.bridge;
+
+public class ConcreteImplementorB {
+	  @Override
+	    public void operationImpl() {
+	        //具体操作
+	    }
+}

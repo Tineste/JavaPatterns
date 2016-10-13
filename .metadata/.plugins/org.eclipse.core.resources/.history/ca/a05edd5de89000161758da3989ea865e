@@ -1,0 +1,8 @@
+package orz.xuchao.javapatterns.singleton;
+
+public class TestSingleton {
+
+	public static void test(){
+		
+	}
+}

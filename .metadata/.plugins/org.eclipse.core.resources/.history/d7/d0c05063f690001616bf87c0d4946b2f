@@ -1,0 +1,18 @@
+package orz.xuchao.javapatterns.bridge;
+
+public class TestBridge {
+	public static void test(){
+		
+		
+		ConcreteImplementorA concreteImplementorA=new ConcreteImplementorA();
+		RefinedAbstraction refinedAbstraction=new RefinedAbstraction(concreteImplementorA);
+		
+		refinedAbstraction.operation();
+		refinedAbstraction.otherOperation();
+		
+		refinedAbstraction=new RefinedAbstraction(new ConcreteImplementorB())
+		
+		
+	}
+
+}

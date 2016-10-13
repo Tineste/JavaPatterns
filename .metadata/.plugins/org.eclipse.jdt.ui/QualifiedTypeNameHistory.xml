@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="orz.xuchao.javapatterns.decorator.ConcreteComponent"/>
-<fullyQualifiedTypeName name="orz.xuchao.javapatterns.decorator.ConcreteDecoratorA"/>
-<fullyQualifiedTypeName name="orz.xuchao.javapatterns.decorator.TestDecorator"/>
-<fullyQualifiedTypeName name="orz.xuchao.javapatterns.proxy.Subject"/>
 <fullyQualifiedTypeName name="orz.xuchao.javapatterns.proxy.Clinet"/>
 <fullyQualifiedTypeName name="orz.xuchao.javapatterns.proxy.RealSubject"/>
 <fullyQualifiedTypeName name="orz.xuchao.javapatterns.proxy.Proxy"/>
@@ -49,9 +45,19 @@
 <fullyQualifiedTypeName name="orz.xuchao.javapatterns.adapter.Adapter"/>
 <fullyQualifiedTypeName name="orz.xuchao.javapatterns.adapter.Adaptee"/>
 <fullyQualifiedTypeName name="orz.xuchao.javapatterns.adapter.TestAdapter"/>
-<fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="orz.xuchao.javapatterns.memento.whitebox.TestWhiteMomento"/>
 <fullyQualifiedTypeName name="orz.xuchao.javapatterns.memento.blackbox.TestBlackMomento"/>
 <fullyQualifiedTypeName name="orz.xuchao.javapatterns.memento.TestMomento"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.composite.transparent.TestTransparentComposite"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.composite.safety.TestSafetyComposite"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.composite.TestComposite"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.iterator.TestIterator"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.singleton.EagerSingleton"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.singleton.LazySingleton"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.singleton.Singleton1"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.singleton.Singleton2"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.singleton.Singleton3"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.singleton.TestSingleton"/>
 </qualifiedTypeNameHistroy>

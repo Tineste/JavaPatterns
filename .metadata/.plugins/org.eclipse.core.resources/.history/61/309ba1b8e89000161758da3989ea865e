@@ -1,0 +1,17 @@
+package orz.xuchao.javapatterns.singleton;
+
+public class TestSingleton {
+
+	public static void test(){
+		EagerSingleton eagerSingleton=EagerSingleton.getInstance();
+		
+		LazySingleton lazySingleton=LazySingleton.getInstance();
+		
+		Singleton1 singleton1=Singleton1.getInstance();
+		
+		Singleton2 singleton2=Singleton2.getInstance();
+		
+		Singleton3 singleton3=Singleton3.uniqueInstance;
+		singleton3.singletonOperation();
+	}
+}
