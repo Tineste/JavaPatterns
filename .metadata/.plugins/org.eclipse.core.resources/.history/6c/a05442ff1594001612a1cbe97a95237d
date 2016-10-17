@@ -1,0 +1,8 @@
+package orz.xuchao.javapatterns.chainofresponsibility;
+
+public class ChainOfResponsibilityTest {
+
+	public static void test(){
+		
+	}
+}

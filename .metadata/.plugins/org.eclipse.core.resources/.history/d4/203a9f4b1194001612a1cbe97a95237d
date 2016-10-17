@@ -1,0 +1,16 @@
+package orz.xuchao.javapatterns.command;
+
+public class ConcreteCommand implements Command {
+
+	private Receiver receiver;
+	
+	@Override
+	public void excute() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public ConcreteCommand(Receiver receiver){
+		this.receiver=receiver;
+	}
+}

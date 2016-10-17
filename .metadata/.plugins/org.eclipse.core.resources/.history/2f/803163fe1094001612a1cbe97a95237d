@@ -1,0 +1,12 @@
+package orz.xuchao.javapatterns.command;
+
+public class ConcreteCommand implements Command {
+
+	@Override
+	public void excute() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	
+}
