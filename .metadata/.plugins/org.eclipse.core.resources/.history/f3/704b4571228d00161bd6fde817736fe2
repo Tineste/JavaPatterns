@@ -1,9 +1,0 @@
-package orz.xuchao.javapatterns.Facade;
-
-public class TestFacade {
-
-	public static void test(){
-		Facade facade=new Facade();
-		facade.test();
-	}
-}

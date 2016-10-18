@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="orz.xuchao.javapatterns.factorymethod.Product"/>
-<fullyQualifiedTypeName name="orz.xuchao.javapatterns.prototype.Client"/>
-<fullyQualifiedTypeName name="orz.xuchao.javapatterns.prototype.Prototype"/>
-<fullyQualifiedTypeName name="orz.xuchao.javapatterns.prototype.ConcretePrototype1"/>
 <fullyQualifiedTypeName name="orz.xuchao.javapatterns.proxy.TestProxy"/>
 <fullyQualifiedTypeName name="orz.xuchao.javapatterns.prototype.TestPrototype"/>
 <fullyQualifiedTypeName name="orz.xuchao.javapatterns.prototype.Enclosure"/>
@@ -60,4 +56,8 @@
 <fullyQualifiedTypeName name="orz.xuchao.javapatterns.bridge.RefinedAbstraction"/>
 <fullyQualifiedTypeName name="orz.xuchao.javapatterns.bridge.ConcreteImplementorB"/>
 <fullyQualifiedTypeName name="orz.xuchao.javapatterns.bridge.TestBridge"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.command.Receiver"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.command.Command"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.command.CommandTest"/>
+<fullyQualifiedTypeName name="orz.xuchao.javapatterns.chainofresponsibility.ChainOfResponsibilityTest"/>
 </qualifiedTypeNameHistroy>

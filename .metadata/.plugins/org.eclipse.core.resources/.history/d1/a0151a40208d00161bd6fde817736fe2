@@ -1,8 +1,0 @@
-package orz.xuchao.javapatterns.templatemethod;
-
-public class TestTemplateMethod {
-
-	AbstractClass abstractClass=new ConcrereClassA();
-	
-	
-}

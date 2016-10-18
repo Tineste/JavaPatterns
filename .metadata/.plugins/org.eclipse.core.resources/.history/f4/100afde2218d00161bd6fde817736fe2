@@ -1,8 +1,0 @@
-package orz.xuchao.javapatterns.Facade;
-
-public class Facade {
-	
-	public SubSystemA subSystemA;
-	public SubSystemB subSystemB;
-
-}

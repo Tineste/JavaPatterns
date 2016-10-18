@@ -1,0 +1,8 @@
+package orz.xuchao.javapatterns.Mediator;
+
+public class TestMediator {
+	public static void test(){
+		
+	}
+
+}

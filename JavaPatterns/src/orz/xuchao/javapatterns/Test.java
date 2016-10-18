@@ -2,6 +2,7 @@ package orz.xuchao.javapatterns;
 
 import java.io.IOException;
 
+import orz.xuchao.javapatterns.Mediator.TestMediator;
 import orz.xuchao.javapatterns.abstractfactory.TestAbstractFactory;
 import orz.xuchao.javapatterns.adapter.TestAdapter;
 import orz.xuchao.javapatterns.bridge.TestBridge;
@@ -15,6 +16,7 @@ import orz.xuchao.javapatterns.composite.transparent.TestTransparentComposite;
 import orz.xuchao.javapatterns.decorator.TestDecorator;
 import orz.xuchao.javapatterns.facade.TestFacade;
 import orz.xuchao.javapatterns.factorymethod.TestFactoryMethod;
+import orz.xuchao.javapatterns.flyweight.TestFlyweight;
 import orz.xuchao.javapatterns.iterator.TestIterator;
 import orz.xuchao.javapatterns.memento.TestMomento;
 import orz.xuchao.javapatterns.memento.whitebox.TestWhiteMomento;
@@ -73,9 +75,11 @@ public class Test {
 //		TestBridge.test();
 ////		命令模式
 //		CommandTest.test();
-//		责任链模式
-		ChainOfResponsibilityTest.test();
-		
-		
+////		责任链模式
+//		ChainOfResponsibilityTest.test();
+////	中介者模式
+//		TestMediator.test();
+//		享元模式
+//		TestFlyweight.test();
 	}
 }

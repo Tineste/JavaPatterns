@@ -1,6 +1,0 @@
-package orz.xuchao.javapatterns.builder;
-
-public interface Builder {
-
-	public void builPart();
-}

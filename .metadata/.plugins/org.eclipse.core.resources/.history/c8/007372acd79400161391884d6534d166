@@ -1,0 +1,5 @@
+package orz.xuchao.javapatterns.Mediator;
+
+public class ConcreteColleagueB {
+
+}
