@@ -1,6 +1,0 @@
-package orz.xuchao.javapatterns.state;
-
-public abstruct class Stae {
-	public void handle()
-
-}

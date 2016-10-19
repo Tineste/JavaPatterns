@@ -1,0 +1,5 @@
+package orz.xuchao.javapatterns.visitor;
+
+public class NodeB {
+
+}

@@ -1,8 +1,0 @@
-package orz.xuchao.javapatterns.state;
-
-public class TestState {
-	public static void test(){
-		
-	}
-
-}

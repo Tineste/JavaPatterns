@@ -1,6 +1,0 @@
-package orz.xuchao.javapatterns.state;
-
-public abstract class Sate {
-	public abstract void handle();
-
-}

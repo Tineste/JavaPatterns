@@ -17,6 +17,7 @@ import orz.xuchao.javapatterns.decorator.TestDecorator;
 import orz.xuchao.javapatterns.facade.TestFacade;
 import orz.xuchao.javapatterns.factorymethod.TestFactoryMethod;
 import orz.xuchao.javapatterns.flyweight.TestFlyweight;
+import orz.xuchao.javapatterns.interpreter.TestInterpreter;
 import orz.xuchao.javapatterns.iterator.TestIterator;
 import orz.xuchao.javapatterns.memento.TestMomento;
 import orz.xuchao.javapatterns.memento.whitebox.TestWhiteMomento;
@@ -28,6 +29,7 @@ import orz.xuchao.javapatterns.singleton.TestSingleton;
 import orz.xuchao.javapatterns.state.TestState;
 import orz.xuchao.javapatterns.strategy.TestStrategy;
 import orz.xuchao.javapatterns.templatemethod.TestTemplateMethod;
+import orz.xuchao.javapatterns.visitor.TestVisitor;
 
 public class Test {
 
@@ -81,5 +83,11 @@ public class Test {
 //		TestMediator.test();
 //		享元模式
 //		TestFlyweight.test();
+////		解释器模式
+//		TestInterpreter.test();
+//		访问者模式
+//		TestVisitor.test();
+		
+		
 	}
 }

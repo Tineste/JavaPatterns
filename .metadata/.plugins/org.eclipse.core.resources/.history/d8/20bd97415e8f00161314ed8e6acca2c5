@@ -1,9 +1,0 @@
-package orz.xuchao.javapatterns.adapter;
-
-public class TestAdapter {
-
-	public static void Test(){
-		
-	}
-	
-}

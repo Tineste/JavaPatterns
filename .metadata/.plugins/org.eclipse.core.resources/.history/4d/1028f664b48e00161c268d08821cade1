@@ -1,7 +1,0 @@
-package orz.xuchao.javapatterns.abstractfactory;
-
-public abstruct class AbstractProductA {
-	
-	public voud doSomething();
-
-}
